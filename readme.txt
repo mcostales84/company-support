@@ -1,16 +1,16 @@
-=== JTW Support ===
+=== Facebook Page Support ===
 
 Contributors: mcostales84
-Tags: jumptoweb, support
+Tags: facebook, support, message
 Requires at least: 3.0.1
 Tested up to: 4.9.8
 License: GPLv2
 
-Add a chat icon on the left bottom corner of the screen so you can contact our support team.
+This plugin will add your Facebook Message icon on the left bottom corner of the screen so Admin users can request support directly from their sites.
 
 == Description ==
 
-This plugin will add an icon on the left bottom corner of your screen for any problem you might have with your site. Any extra development time will be charge according with the maintenance plan you have with Jumptoweb.
+This plugin will give you the ability to add your Facebook Page Message to your client's websites. This chat will only be visible to  Admin users. The idea of this plugin is to give support to your clients once the website is delivered and running. Your client will be able to contact you directly from their website regarding any issue they might have been experimenting, this way you can have a more long-lasting relationship with past clients, or give them support in the case you have a maintenance plan with them.
 
 == Installation ==
 
